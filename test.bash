@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "This is a Test."
+echo "This is a test."
+echo "AAAAAAAAAAAAAAA"
